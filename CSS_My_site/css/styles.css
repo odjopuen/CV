@@ -32,6 +32,7 @@
 
  p {
      color: #40514E;
+     line-height: 2;
 
  }
 
@@ -56,13 +57,14 @@
 
 
  .top-cloud {
+    top: 50px;
      position: absolute;
-     right: 500px;
+     right: 200px;
  }
 
  .bottom-cloud {
      position: absolute;
-     left: 500px;
+     left: 200px;
  }
 
  .profile {
@@ -82,7 +84,7 @@
      width: 50%;
      margin: 2rem auto 3rem auto;
      text-align: left;
-     line-height: 2;
+
 
  }
 
