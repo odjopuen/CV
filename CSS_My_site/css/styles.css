@@ -1,5 +1,6 @@
  /************************************* TAG SELECTORS *************************************/
  body {
+    color: #40514E;
      margin: 0;
      font-family: 'Merriweather', serif;
      text-align: center;
@@ -105,20 +106,7 @@
      text-align: center;
      margin: auto auto 2rem auto;
  }
-/*/
- .button {
-     height: 2rem;
-     background-color: #0F9BA0;
-     border: none;
-     border-radius: 0.5rem;
-     margin-top: 2rem;
- }
 
- .btn {
-     color: #EAF6F6;
-     text-decoration: none;
- }
-*/
 
 .btn {
     background: #11cdd4;
