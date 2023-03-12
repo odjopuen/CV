@@ -23,7 +23,7 @@ h1 {
 h2{
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
-    font-size: 3.5rem;
+    font-size: 3rem;
     line-height: 1.5; 
 }
 h3 {
@@ -103,7 +103,7 @@ h3 {
     color: #fff;
 }
 
-.img-testimonials{
+.testimonial-image{
     border-radius: 100%;
     width: 10%;
     margin: 20px;
@@ -113,4 +113,9 @@ h3 {
     text-align: center;
     background-color: #ff4c68;
     padding: 3%;
+}
+
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
 }
