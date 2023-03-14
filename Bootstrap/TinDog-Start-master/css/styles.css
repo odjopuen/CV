@@ -98,9 +98,14 @@ h3 {
 
 #testimonials {
     text-align: center;
-    padding: 7% 15%;
+
     background-color: #ff4c68;
     color: #fff;
+}
+
+
+.carousel-item{
+    padding: 7% 15%;
 }
 
 .testimonial-image{
