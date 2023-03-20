@@ -64,6 +64,7 @@ h3 {
 
 .title-div {
     position: relative;
+
 }
 
 
@@ -73,6 +74,7 @@ h3 {
     transform: rotate(25deg);
     width: 60%;
     position: absolute;
+    right: 30%;
 }
 
 
@@ -149,4 +151,48 @@ h3 {
 .pricing-col {
     padding: 3% 2%;
     text-align: center;
+}
+
+#cta{
+    background-color: #ff4c68;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    padding: 7% 15%;
+}
+
+
+.cta-heading{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+
+@media (max-width: 1028px) {
+    .title-image {
+        position: static;
+        transform: rotate(0);
+    }
+    #title{
+        text-align: center;
+    }
+    
+}
+
+#footer{
+ text-align: center;
+ padding: 7% 15%;
+}
+
+
+.footer-icon{
+    padding: 0.5%;
+}
+
+.copy_right{
+    color: #8f8f8f;
 }
